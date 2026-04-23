@@ -1,0 +1,29 @@
+ISA:
+---------------------------------------------------
+Instruction Set: add, nand, li, lw, sw, be
+R-type Instructions: add, nand
+
+Registers: r0, r1, r2, r3, r4, r5, r6, r7, 
+
+Instructions:
+(1) add rd, rs, rt
+(2) nand rd, rs, rt
+
+
+***************************************************
+***************************************************
+Logisim IC Custom Colors:
+---------------------------------------------------
+The Math/Execution Units (ALU, Adders):
+    Background: Soft Orange (#FFE0B2)
+    Border: Dark Orange (#E65100)
+
+Storage & Memory (Register File, RAM, ROM):
+    Background: Mint Green (#C8E6C9)
+    Border: Dark Green (#1B5E20)
+
+The Control Unit & Logic: 
+    Background: Light Purple (#E1BEE7)
+    Border: Deep Purple (#4A148C)
+
+
