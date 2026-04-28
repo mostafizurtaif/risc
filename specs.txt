@@ -3,7 +3,7 @@ ISA:
 Instruction Set: add, nand, li, lw, sw, be
 R-type Instructions: add, nand
 
-Registers: r0, r1, r2, r3, r4, r5, r6, r7, 
+Registers: r0, r1, r2, r3, r4, r5, r6, r7
 
 Instructions:
 (1) add rd, rs, rt
@@ -12,6 +12,7 @@ Instructions:
 
 ***************************************************
 ***************************************************
+
 Logisim IC Custom Colors:
 ---------------------------------------------------
 The Math/Execution Units (ALU, Adders):
